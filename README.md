@@ -1,4 +1,4 @@
-## Hi there 👋🏾, I am Rahma (she/her) 
+## Hi 👋🏾, I am Rahma (she/her) 
 
 ### A UC Berkeley undergrad with experience in quantitative and qualitative research, who pivoted into tech.
 
