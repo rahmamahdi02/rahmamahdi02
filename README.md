@@ -1,10 +1,8 @@
 ### Hi there 👋🏾, I am Rahma (she/her) 
 
-I am a UC Berkeley undergrad with experience in quantitative and qualitative research, who pivoted into tech.
+I am a UC Berkeley undergrad with experience in quantitative and qualitative research, who pivoted into tech. Curently I am 🌱 learning about PERN Stack: PostgreSQL, Express, React, and Node.js. 
 
-Curently I am 🌱 learning about PERN Stack: PostgreSQL, Express, React, and Node.js. Y.
-
--⚡ Fun fact: I have bungee jumped and would love to skydive one day! 
+- ⚡ Fun fact: I have bungee jumped and would love to skydive one day! 
 - 🔭 I’m currently working on my bundle thriftstore app for women entrepreneur by women
 
 ### Skills: 
