@@ -1,5 +1,8 @@
 ### Hi there 👋🏾, I am Rahma (she/her) 
 
+## I am a software developer. I’m passionate about coding, love intellectual challenges, eager to learn, and willing to work with a variety of technologies to solve interesting problems.
+
+
 I am a UC Berkeley undergrad with experience in quantitative and qualitative research, who pivoted into tech.
 Curently, I am 🌱 learning about PERN Stack: PostgreSQL, Express, React, and Node.js. 
 
