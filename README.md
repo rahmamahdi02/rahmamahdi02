@@ -1,10 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
-
-### Jambo 👋🏾, I am Rahma (she/her) 
-
-![banner](screenshot2.png)
+### Hi there 👋🏾, I am Rahma (she/her) 
 
 I am a UC Berkeley undergrad with experience in quantitative and qualitative research, who pivoted into tech. I have so much to offer in this field and with my attention to detail I could be an asset to your team. Please ask me about my first project with JavaScript which is the to-do list. I would talk you through my code.
 
