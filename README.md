@@ -11,7 +11,7 @@ Curently I am 🌱 learning about PERN Stack: PostgreSQL, Express, React, and No
 ![HTML5](https://img.shields.io/badge/HTML5-CD6A20?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-B11F05?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-E4DA02?style=for-the-badge&logo=JAVASCRIPT&logoColor=white)
-![POSTGRESQL][(https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=white)]
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![REACT](https://img.shields.io/badge/REACT-3359FF?style=for-the-badge&logo=REACT&logoColor=white)
 ![NODE.JS](https://img.shields.io/badge/NODE.JS-549D05?style=for-the-badge&logo=NODE.JS&logoColor=white)
 ![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
