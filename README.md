@@ -2,11 +2,11 @@
 
 ### A UC Berkeley undergrad with experience in quantitative and qualitative research, who pivoted into tech.
 
-I am a software developer. I’m passionate about coding, love intellectual challenges, eager to learn, and willing to work with a variety of technologies to solve interesting problems.
-Curently, I am 🌱 learning about PERN Stack: PostgreSQL, Express, React, and Node.js. 
+A self-taught software developer passionate about coding, brain-teasers, eager to learn, and willing to work with a variety of technologies to solve interesting problems.
+Curently, I am 🌱 mastering all things PERN Stack: PostgreSQL, Express, React, and Node.js. 
 
 - ⚡ Fun fact: I have bungee jumped and would love to skydive one day! 
-- 🔭 I’m currently working on my bundle thriftstore app for women entrepreneur by women
+- 🔭 I’m currently working on a supplement tracker that provides personalized RDA for 15+ essential vitamins and minerals.
 
 ### Skills: 
 ![HTML5](https://img.shields.io/badge/HTML5-CD6A20?style=for-the-badge&logo=HTML5&logoColor=white)
