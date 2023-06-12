@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**rahmamahdi02/rahmamahdi02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
+
 ### Jambo 👋🏾, I am Rahma (she/her) 
 
 ![banner](screenshot2.png)
@@ -30,6 +28,9 @@ Curently I am 🌱 learning about PERN Stack: React, Node.js, Express and PostGr
 <img alt="Rahma's github stats" src="https://github-readme-stats.vercel.app/api?username=rahmamahdi02&show_icons=true&theme=merko"  > </p>
 
 <!--
+<!--
+**rahmamahdi02/rahmamahdi02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+s
 
 Here are some ideas to get you started:
 
