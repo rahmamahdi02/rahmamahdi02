@@ -1,8 +1,8 @@
 ### Hi there 👋🏾, I am Rahma (she/her) 
 
-I am a UC Berkeley undergrad with experience in quantitative and qualitative research, who pivoted into tech. I have so much to offer in this field and with my attention to detail I could be an asset to your team. Please ask me about my first project with JavaScript which is the to-do list. I would talk you through my code.
+I am a UC Berkeley undergrad with experience in quantitative and qualitative research, who pivoted into tech.
 
-Curently I am 🌱 learning about PERN Stack: React, Node.js, Express and PostGres. You could reach me via linkedIn or my Portfolio, both links are in my Bio.
+Curently I am 🌱 learning about PERN Stack: PostgreSQL, Express, React, and Node.js. Y.
 
 -⚡ Fun fact: I have bungee jumped and would love to skydive one day! 
 - 🔭 I’m currently working on my bundle thriftstore app for women entrepreneur by women
@@ -11,6 +11,7 @@ Curently I am 🌱 learning about PERN Stack: React, Node.js, Express and PostGr
 ![HTML5](https://img.shields.io/badge/HTML5-CD6A20?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-B11F05?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-E4DA02?style=for-the-badge&logo=JAVASCRIPT&logoColor=white)
+![POSTGRESQL][(https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=white)]
 ![REACT](https://img.shields.io/badge/REACT-3359FF?style=for-the-badge&logo=REACT&logoColor=white)
 ![NODE.JS](https://img.shields.io/badge/NODE.JS-549D05?style=for-the-badge&logo=NODE.JS&logoColor=white)
 ![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
