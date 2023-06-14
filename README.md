@@ -18,6 +18,12 @@ Curently, I am 🌱 mastering all things PERN Stack: PostgreSQL, Express, React,
 ![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white)
 
+<h3 align="center">Let's Connect</h3>
+<p align="center">
+<a href="https://twitter.com/@rahmamahdi.02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@roshanell" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rahmamahdi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
+
 <!--
 ### GitHub Stat:
 <p align="left" >
