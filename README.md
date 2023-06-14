@@ -18,7 +18,7 @@ Curently, I am 🌱 mastering all things PERN Stack: PostgreSQL, Express, React,
 ![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white)
 
-
+<!--
 ### GitHub Stat:
 <p align="left" >
 <img alt="Rahma's github stats" src="https://github-readme-stats.vercel.app/api?username=rahmamahdi02&show_icons=true&theme=merko"  > </p>
