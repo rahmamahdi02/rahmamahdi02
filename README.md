@@ -25,11 +25,14 @@ Curently, I am 🌱 mastering all things PERN Stack: PostgreSQL, Express, React,
 <a href="https://www.linkedin.com/in/rahmamahdi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
-<!--
 ### GitHub Stat:
 <p align="left" >
 <img alt="Rahma's github stats" src="https://github-readme-stats.vercel.app/api?username=rahmamahdi02&show_icons=true&theme=merko"  > </p>
 
+div align="center">
+<img src="https://komarev.com/ghpvc/?username=rahmamamahdi.02&&style=flat-square" align="center" />
+</div>  
+  
 <!--
 <!--
 **rahmamahdi02/rahmamahdi02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
