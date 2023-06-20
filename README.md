@@ -34,6 +34,20 @@ Curently, I am 🌱 mastering all things PERN Stack: PostgreSQL, Express, React,
 div align="center">
 <img src="https://komarev.com/ghpvc/?username=rahmamamahdi.02&&style=flat-square" align="center" />
 </div>  
+
+<h2 align="center"> Projects! </h2>
+
+<div align="center" dir="auto">
+
+
+		
+| Name of Project | Overview|
+| ------------- | ------------- |
+| Vegetarian Cheker  |![Recording 2022-05-15 at 16 21 51](https://user-images.githubusercontent.com/96213223/170837052-1ed6644b-6f47-4a85-9c8d-cb3565cb544f.gif) |
+| Sunnyside Marketing  |  ![Recording 2022-07-13 at 19 08 12](https://user-images.githubusercontent.com/96213223/180039380-cee9103f-b8e7-400a-aae9-a2596f661614.gif)|
+| Portfolio |  ![Recording 2022-07-13 at 19 08 12](https://github.com/Roshanell/Roshanell/assets/96213223/9b9ab815-e3bf-44a7-8207-41cc84c41536)|
+| Shaken Not Stirred |  ![Recording 2022-07-13 at 19 08 12](https://github.com/Roshanell/Roshanell/assets/96213223/ad97e402-be73-49b9-9e76-58d3f195861d)|
+	
   
 
 <!--
