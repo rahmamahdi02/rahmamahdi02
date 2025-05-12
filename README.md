@@ -2,7 +2,7 @@
 
 ### A UC Berkeley undergrad with experience in quantitative and qualitative research who pivoted into tech!
 
-A software developer passionate about coding, brain-teasers, eager to learn, and willing to work with a variety of technologies to solve interesting problems.
+Studying HCI/ML and passionate about coding, brain-teasers, eager to learn, and willing to work with a variety of technologies to solve interesting problems.
 
 Curently, I am 🌱 mastering all things PERN Stack: PostgreSQL, Express, React, and Node.js. 
 
