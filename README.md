@@ -1,12 +1,11 @@
 ## Hello 👋🏾,  I am Rahma (she/her) 
 
-### A Berkeley educated Software Engineer proficient in full stack debelopment. Previusly ex-Sony Playstation, ex-Google.
+### Software Engineer with 3+ years skilled in production ready software, machine learning on client, toolchain migration, and UI frameworks.
 
-Software Engineer with 3+ years skilled in production ready software, debugging complex codebases, toolchain migration, and UI frameworks.
-• Highly experienced in software development process, including coding standards, code reviews, source control management, build processes, testing, and operations.
-• Proven track record producing technical documentation and translate technically complex information for non-technical stakeholders.
-• Highly experienced in agile development, PR workflows, and collaborating with interdisciplinary teams to meet internal milestones.
-• Proven ability to collaborate across global teams to support server and client platforms in fast-paced environments.
+- Highly experienced in software development process, including coding standards, code reviews, source control management, build processes, testing, and operations.
+- Proven track record producing technical documentation and translate technically complex information for non-technical stakeholders.
+- Highly experienced in agile development, PR workflows, and collaborating with interdisciplinary teams to meet internal milestones.
+- Proven ability to collaborate across global teams to support server and client platforms in fast-paced environments.
 
 ### Skills: 
 ![HTML5](https://img.shields.io/badge/HTML5-CD6A20?style=for-the-badge&logo=HTML5&logoColor=white)
