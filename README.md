@@ -1,6 +1,5 @@
-## Hello 👋🏾,  I am Rahma (she/her) 
 
-### Software Engineer with 3+ years experience in production ready software, machine learning on client, toolchain migration, and UI frameworks.
+### Software Engineer with 4+ years experience in production ready software, machine learning on client, toolchain migration, and UI frameworks.
 
 - Highly experienced in software development process, including coding standards, code reviews, source control management, build processes, testing, and operations.
 - Proven track record producing technical documentation and translate technically complex information for non-technical stakeholders.
